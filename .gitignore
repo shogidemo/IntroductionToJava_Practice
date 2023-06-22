@@ -1,0 +1,46 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven specific
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/extensions.xml
+
+# Gradle specific
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE specific (Eclipse, IntelliJ, NetBeans)
+.metadata/
+*.swp
+*~.nib
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+.vscode/
+*.class
+.settings/
+.classpath
+.project
+.factorypath
+
+# OS specific
+.DS_Store
+Thumbs.db
